@@ -13,7 +13,7 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <spring.version>4.0.3.RELEASE</spring.version>
+    <spring.version>5.2.5.RELEASE</spring.version>
     <redis.client.version>2.7.3</redis.client.version>
   </properties>
 
